@@ -1,3 +1,3 @@
 # Data-Analyst-job-analysis
-Analysis of data analyst job role using python
+Analysis of data analyst job role using python visualization libraries.
 
